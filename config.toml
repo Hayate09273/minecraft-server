@@ -1,0 +1,83 @@
+baseURL = "https://www.hyte.jp/"
+languageCode = "ja-jp"
+title = "Hayate Server"
+theme = "minimal"
+disqusShortname = "username" # delete this to disable disqus comments
+googleAnalytics = "G-2XRVZJXW2W"
+publishDir = "docs"
+
+[params]
+    author = "Hayate"
+    description = "Hayate Serverのホームページへようこそ！ご相談・ご依頼は[Discord](https://discord.gg/DWKwVMqH8h)まで！"
+    githubUsername = "Hayate09273"
+    accent = "navy"
+    showBorder = true
+    backgroundColor = "white"
+    font = "M PLUS Rounded 1c" # should match the name on Google Fonts!
+    highlight = true
+    highlightStyle = "default"
+    highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
+
+[[menu.main]]
+    url = "/"
+    name = "ホーム"
+    weight = 1
+
+[[menu.main]]
+    url = "/info/"
+    name = "サーバー情報"
+    weight = 2
+	
+[[menu.main]]
+    url = "/link/"
+	name = "リンク"
+	weight = 3
+	
+[[menu.main]]
+    url = "/history/"
+	name = "歴史・沿革"
+	weight = 4
+	
+[[menu.main]]
+	url = "/policy/"
+	name = "プライバシーポリシー・免責事項"
+	weight = 5
+
+#[[menu.main]]
+#    url = "/post/"
+#    name = "Posts"
+#    weight = 3
+
+#[[menu.main]]
+#    url = "/project/"
+#    name = "Projects"
+#    weight = 4
+
+# Social icons to be shown on the right-hand side of the navigation bar.
+# The "name" field should match the name of the icon in Font Awesome.
+# The list of available icons can be found at http://fontawesome.io/icons.
+
+#[[menu.icon]]
+#    url = "mailto:me@example.com"
+#    name = "fas fa-envelope"
+#    weight = 1
+
+#[[menu.icon]]
+#    url = "https://github.com/username/"
+#    name = "fab fa-github"
+#    weight = 2
+
+#[[menu.icon]]
+#    url = "https://twitter.com/username/"
+#    name = "fab fa-twitter"
+#    weight = 3
+
+#[[menu.icon]]
+#    url = "https://www.linkedin.com/in/username/"
+#    name = "fab fa-linkedin"
+#    weight = 4
+
+[[menu.icon]]
+    url = "https://discord.gg/DWKwVMqH8h"
+    name = "fab fa-discord"
+    weight = 5

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hayate Server</title>
+    <link>https://www.hyte.jp/</link>
+    <description>Recent content on Hayate Server</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language><atom:link href="https://www.hyte.jp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>サーバー情報</title>
+      <link>https://www.hyte.jp/info/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.hyte.jp/info/</guid>
+      <description> 
+ サーバー情報  IPアドレス mc.hyte.jp バージョン 1.16.5 - 1.17.1 最大接続人数 30人   サーバースペック 新サーバー(2021/6/13から稼働) さくらのVPS 4Gプラン  CPU: 仮想4コア (Intel(R) Xeon(R) Gold 6212U 2.40GHz) RAM: 4GB SSD: 400GB OS: Arch Linux リージョン: 石狩   旧サーバー(2018/9/24まで稼働)  CPU: AMD Turion(tm) 64 X2 Mobile Technology TL-60 2.00GHz RAM: 4GB HDD: 1TB OS: Windows 7 Professional 32bit  </description>
+    </item>
+    
+    <item>
+      <title>プライバシーポリシー・免責事項</title>
+      <link>https://www.hyte.jp/policy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.hyte.jp/policy/</guid>
+      <description>Google アナリティクスの使用 当サイトでは、Google アナリティクスを使用しています。 Google アナリティクスは、トラフィックデータを収集するためにCookieを使用します。トラフィックデータは匿名で収集されるため、個人が特定されることはありません。 Google アナリティクスによるトラフィックデータの収集を拒否したい場合は、ブラウザからCookieを無効に設定してください。 Google社のプライバシーポリシーはこちらをご覧ください。
+免責事項 当サイトに情報を掲載するにあたり、可能な限り正確な情報を掲載出来るよう努めていますが、古くなった情報や、間違った情報が含まれている可能性があります。 そのため、予告なしに編集、削除することがあります。 また、当サイトを利用したことで発生した損害については一切の責任を負いかねます。
+リンク 当サイトはリンクフリーです。 そのため、自由にSNSなどで共有して問題ありません。
+引用 当サイトに掲載されている文章を引用する際は、引用している文章が分かるようにし、文面を変更せず、出典を明記した上で行ってください。
+制定日 2021年7月25日</description>
+    </item>
+    
+    <item>
+      <title>リンク</title>
+      <link>https://www.hyte.jp/link/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.hyte.jp/link/</guid>
+      <description>Japan Minecraft Servers
+Discord</description>
+    </item>
+    
+    <item>
+      <title>歴史・沿革</title>
+      <link>https://www.hyte.jp/history/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.hyte.jp/history/</guid>
+      <description>2017/08/24 制作サーバーの運営を開始
+2017/10/14 Discordサーバーを設立
+2018/01/14 制作サーバーの運営を休止
+2018/02/17 Japan Minecraft Serversに登録
+2018/02/24 生活サーバーの運営を開始
+2018/04/29 生活サーバーの運営を休止
+2018/09/02 生活サーバーの運営を再開
+2018/09/24 生活サーバーの運営を休止
+2021/06/13 生活サーバーの運営を再開</description>
+    </item>
+    
+  </channel>
+</rss>
