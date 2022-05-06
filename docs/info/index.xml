@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>このサーバーについて on Hayate Server</title>
+    <link>https://www.hyte.jp/info/</link>
+    <description>Recent content in このサーバーについて on Hayate Server</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Fri, 06 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.hyte.jp/info/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>運営一覧</title>
+      <link>https://www.hyte.jp/info/admins/</link>
+      <pubDate>Fri, 06 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.hyte.jp/info/admins/</guid>
+      <description>   スキン MCID 役職      Hayate_0927 Owner    mira_gfx Admin Developer    </description>
+    </item>
+    
+    <item>
+      <title>歴史・沿革</title>
+      <link>https://www.hyte.jp/info/history/</link>
+      <pubDate>Fri, 06 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.hyte.jp/info/history/</guid>
+      <description>2017/08/24 制作サーバーの運営を開始
+2017/10/14 Discordサーバーを設立
+2018/01/14 制作サーバーの運営を休止
+2018/02/17 Japan Minecraft Serversに登録
+2018/02/24 生活サーバーの運営を開始
+2018/04/29 生活サーバーの運営を休止
+2018/09/02 生活サーバーの運営を再開
+2018/09/24 生活サーバーの運営を休止
+2021/06/13 生活サーバーの運営を再開</description>
+    </item>
+    
+    <item>
+      <title>サーバー情報</title>
+      <link>https://www.hyte.jp/info/info/</link>
+      <pubDate>Fri, 06 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.hyte.jp/info/info/</guid>
+      <description> 
+ サーバー情報  IPアドレス mc.hyte.jp バージョン 1.16.5 - 1.17.1 最大接続人数 30人   サーバースペック 2代目(2021/6/13から2021/10/31まで稼働) さくらのVPS 4Gプラン  CPU: 仮想4コア (Intel(R) Xeon(R) Gold 6212U 2.40GHz) RAM: 4GB SSD: 400GB OS: Arch Linux リージョン: 石狩   初代(2017/8/24から2018/9/24まで稼働)  CPU: AMD Turion(tm) 64 X2 Mobile Technology TL-60 2.00GHz RAM: 4GB HDD: 1TB OS: Windows 7 Professional 32bit  </description>
+    </item>
+    
+    <item>
+      <title>生活サーバーのルール</title>
+      <link>https://www.hyte.jp/info/rule/</link>
+      <pubDate>Fri, 06 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.hyte.jp/info/rule/</guid>
+      <description>生活サーバーではルールを守って楽しく遊びましょう！
+建築物  サーバーの発展の妨げになるような建物の建築はしないでください。 他の人が作っている建物に近すぎないようにしてください。 最初からある建物を許可なく破壊しないでください。  保護  保護プラグインとしてWorldGuard、LocketteProを導入しています。自分の家などは保護を忘れずに。 道などの共有物は保護しないでください。  撮影、配信  当サーバーの動画を撮影、配信は自由です。動画をアップロードした場合はDiscordなどで伝えてもらえると嬉しいです。  </description>
+    </item>
+    
+  </channel>
+</rss>

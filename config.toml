@@ -8,15 +8,17 @@ publishDir = "docs"
 
 [params]
     author = "Hayate"
-    description = "Hayate Serverのホームページへようこそ！ご相談・ご依頼は[Discord](https://discord.gg/DWKwVMqH8h)まで！"
+    description = "Hayate Serverのホームページへようこそ！"
     githubUsername = "Hayate09273"
     accent = "navy"
     showBorder = true
     backgroundColor = "white"
-    font = "M PLUS Rounded 1c" # should match the name on Google Fonts!
+    font = "Kosugi Maru" # should match the name on Google Fonts!
     highlight = true
     highlightStyle = "default"
     highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
+	dateformat = "2006/01/02"
+	css = ["/css/custom.css"]
 
 [[menu.main]]
     url = "/"
@@ -25,7 +27,7 @@ publishDir = "docs"
 
 [[menu.main]]
     url = "/info/"
-    name = "サーバー情報"
+    name = "サーバーについて"
     weight = 2
 	
 [[menu.main]]
@@ -34,14 +36,14 @@ publishDir = "docs"
 	weight = 3
 	
 [[menu.main]]
-    url = "/history/"
-	name = "歴史・沿革"
+    url = "/blog/"
+	name = "ブログ"
 	weight = 4
 	
 [[menu.main]]
 	url = "/policy/"
 	name = "プライバシーポリシー・免責事項"
-	weight = 5
+	weight = 4
 
 #[[menu.main]]
 #    url = "/post/"

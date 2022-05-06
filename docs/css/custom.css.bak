@@ -1,0 +1,13 @@
+table{
+    border: 1px solid #cccccc;
+}
+
+thead th{
+    border-bottom: 1px solid #cccccc;
+	padding: 5;
+}
+
+tbody td{
+    border-bottom: 1px solid #cccccc;
+	padding: 5px;
+}

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ブログ on Hayate Server</title>
+    <link>https://www.hyte.jp/blog/</link>
+    <description>Recent content in ブログ on Hayate Server</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Sun, 11 Mar 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://www.hyte.jp/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>今後の計画について</title>
+      <link>https://www.hyte.jp/blog/future_plans/</link>
+      <pubDate>Sun, 11 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.hyte.jp/blog/future_plans/</guid>
+      <description>今後の計画についてだらだら書いてみます・・・（書いてみるだけです）
+Minecraftサーバー BungeeCord + ロビー→メモリ4GB程度のVPS
+生活サーバーなど　→i5程度のデスクトップPC（家に設置）
+簡単に出来るミニゲームを追加
+荒らし対策を強化
+（常時10~20人くらいまで発展すれば運営を5人くらいまで）
+ホームページ WordPressに移行　（レンタルサーバー（
+ドメイン .netを取得予定
+金がかかりそう・・・
+とりあえずドメインは欲しいところです。
+無計画なサーバーですが今後もよろしくお願い致します。</description>
+    </item>
+    
+    <item>
+      <title>同時接続8人達成！</title>
+      <link>https://www.hyte.jp/blog/record/</link>
+      <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.hyte.jp/blog/record/</guid>
+      <description>2018/2/24 23時台に最大8人を記録しました！ </description>
+    </item>
+    
+  </channel>
+</rss>

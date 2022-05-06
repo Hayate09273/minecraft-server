@@ -2,18 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.hyte.jp/categories/</loc>
+    <loc>https://www.hyte.jp/info/admins/</loc>
+    <lastmod>2022-05-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.hyte.jp/info/history/</loc>
+    <lastmod>2022-05-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.hyte.jp/info/info/</loc>
+    <lastmod>2022-05-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.hyte.jp/</loc>
+    <lastmod>2022-05-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.hyte.jp/tags/</loc>
+    <lastmod>2022-05-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.hyte.jp/info/</loc>
+    <lastmod>2022-05-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.hyte.jp/tags/%E3%82%A2%E3%83%BC%E3%82%AB%E3%82%A4%E3%83%96/</loc>
+    <lastmod>2022-05-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.hyte.jp/info/rule/</loc>
+    <lastmod>2022-05-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.hyte.jp/blog/</loc>
+    <lastmod>2018-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.hyte.jp/blog/future_plans/</loc>
+    <lastmod>2018-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.hyte.jp/blog/record/</loc>
+    <lastmod>2018-02-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.hyte.jp/categories/</loc>
   </url><url>
     <loc>https://www.hyte.jp/policy/</loc>
   </url><url>
     <loc>https://www.hyte.jp/link/</loc>
-  </url><url>
-    <loc>https://www.hyte.jp/history/</loc>
   </url>
 </urlset>

@@ -5,15 +5,80 @@
     <link>https://www.hyte.jp/</link>
     <description>Recent content on Hayate Server</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ja-jp</language><atom:link href="https://www.hyte.jp/index.xml" rel="self" type="application/rss+xml" />
+    <language>ja-jp</language>
+    <lastBuildDate>Fri, 06 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.hyte.jp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>運営一覧</title>
+      <link>https://www.hyte.jp/info/admins/</link>
+      <pubDate>Fri, 06 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.hyte.jp/info/admins/</guid>
+      <description>   スキン MCID 役職      Hayate_0927 Owner    mira_gfx Admin Developer    </description>
+    </item>
+    
+    <item>
+      <title>歴史・沿革</title>
+      <link>https://www.hyte.jp/info/history/</link>
+      <pubDate>Fri, 06 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.hyte.jp/info/history/</guid>
+      <description>2017/08/24 制作サーバーの運営を開始
+2017/10/14 Discordサーバーを設立
+2018/01/14 制作サーバーの運営を休止
+2018/02/17 Japan Minecraft Serversに登録
+2018/02/24 生活サーバーの運営を開始
+2018/04/29 生活サーバーの運営を休止
+2018/09/02 生活サーバーの運営を再開
+2018/09/24 生活サーバーの運営を休止
+2021/06/13 生活サーバーの運営を再開</description>
+    </item>
+    
     <item>
       <title>サーバー情報</title>
-      <link>https://www.hyte.jp/info/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <link>https://www.hyte.jp/info/info/</link>
+      <pubDate>Fri, 06 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://www.hyte.jp/info/</guid>
+      <guid>https://www.hyte.jp/info/info/</guid>
       <description> 
- サーバー情報  IPアドレス mc.hyte.jp バージョン 1.16.5 - 1.17.1 最大接続人数 30人   サーバースペック 新サーバー(2021/6/13から稼働) さくらのVPS 4Gプラン  CPU: 仮想4コア (Intel(R) Xeon(R) Gold 6212U 2.40GHz) RAM: 4GB SSD: 400GB OS: Arch Linux リージョン: 石狩   旧サーバー(2018/9/24まで稼働)  CPU: AMD Turion(tm) 64 X2 Mobile Technology TL-60 2.00GHz RAM: 4GB HDD: 1TB OS: Windows 7 Professional 32bit  </description>
+ サーバー情報  IPアドレス mc.hyte.jp バージョン 1.16.5 - 1.17.1 最大接続人数 30人   サーバースペック 2代目(2021/6/13から2021/10/31まで稼働) さくらのVPS 4Gプラン  CPU: 仮想4コア (Intel(R) Xeon(R) Gold 6212U 2.40GHz) RAM: 4GB SSD: 400GB OS: Arch Linux リージョン: 石狩   初代(2017/8/24から2018/9/24まで稼働)  CPU: AMD Turion(tm) 64 X2 Mobile Technology TL-60 2.00GHz RAM: 4GB HDD: 1TB OS: Windows 7 Professional 32bit  </description>
+    </item>
+    
+    <item>
+      <title>生活サーバーのルール</title>
+      <link>https://www.hyte.jp/info/rule/</link>
+      <pubDate>Fri, 06 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.hyte.jp/info/rule/</guid>
+      <description>生活サーバーではルールを守って楽しく遊びましょう！
+建築物  サーバーの発展の妨げになるような建物の建築はしないでください。 他の人が作っている建物に近すぎないようにしてください。 最初からある建物を許可なく破壊しないでください。  保護  保護プラグインとしてWorldGuard、LocketteProを導入しています。自分の家などは保護を忘れずに。 道などの共有物は保護しないでください。  撮影、配信  当サーバーの動画を撮影、配信は自由です。動画をアップロードした場合はDiscordなどで伝えてもらえると嬉しいです。  </description>
+    </item>
+    
+    <item>
+      <title>今後の計画について</title>
+      <link>https://www.hyte.jp/blog/future_plans/</link>
+      <pubDate>Sun, 11 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.hyte.jp/blog/future_plans/</guid>
+      <description>今後の計画についてだらだら書いてみます・・・（書いてみるだけです）
+Minecraftサーバー BungeeCord + ロビー→メモリ4GB程度のVPS
+生活サーバーなど　→i5程度のデスクトップPC（家に設置）
+簡単に出来るミニゲームを追加
+荒らし対策を強化
+（常時10~20人くらいまで発展すれば運営を5人くらいまで）
+ホームページ WordPressに移行　（レンタルサーバー（
+ドメイン .netを取得予定
+金がかかりそう・・・
+とりあえずドメインは欲しいところです。
+無計画なサーバーですが今後もよろしくお願い致します。</description>
+    </item>
+    
+    <item>
+      <title>同時接続8人達成！</title>
+      <link>https://www.hyte.jp/blog/record/</link>
+      <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.hyte.jp/blog/record/</guid>
+      <description>2018/2/24 23時台に最大8人を記録しました！ </description>
     </item>
     
     <item>
@@ -37,23 +102,6 @@
       <guid>https://www.hyte.jp/link/</guid>
       <description>Japan Minecraft Servers
 Discord</description>
-    </item>
-    
-    <item>
-      <title>歴史・沿革</title>
-      <link>https://www.hyte.jp/history/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.hyte.jp/history/</guid>
-      <description>2017/08/24 制作サーバーの運営を開始
-2017/10/14 Discordサーバーを設立
-2018/01/14 制作サーバーの運営を休止
-2018/02/17 Japan Minecraft Serversに登録
-2018/02/24 生活サーバーの運営を開始
-2018/04/29 生活サーバーの運営を休止
-2018/09/02 生活サーバーの運営を再開
-2018/09/24 生活サーバーの運営を休止
-2021/06/13 生活サーバーの運営を再開</description>
     </item>
     
   </channel>

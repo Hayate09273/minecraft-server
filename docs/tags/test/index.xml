@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>test on Hayate Server</title>
+    <link>https://www.hyte.jp/tags/test/</link>
+    <description>Recent content in test on Hayate Server</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Fri, 06 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.hyte.jp/tags/test/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>サーバー情報</title>
+      <link>https://www.hyte.jp/info/info/</link>
+      <pubDate>Fri, 06 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.hyte.jp/info/info/</guid>
+      <description> 
+ サーバー情報  IPアドレス mc.hyte.jp バージョン 1.16.5 - 1.17.1 最大接続人数 30人   サーバースペック 新サーバー(2021/6/13から稼働) さくらのVPS 4Gプラン  CPU: 仮想4コア (Intel(R) Xeon(R) Gold 6212U 2.40GHz) RAM: 4GB SSD: 400GB OS: Arch Linux リージョン: 石狩   旧サーバー(2018/9/24まで稼働)  CPU: AMD Turion(tm) 64 X2 Mobile Technology TL-60 2.00GHz RAM: 4GB HDD: 1TB OS: Windows 7 Professional 32bit  </description>
+    </item>
+    
+    <item>
+      <title>歴史・沿革</title>
+      <link>https://www.hyte.jp/info/history/</link>
+      <pubDate>Fri, 06 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.hyte.jp/info/history/</guid>
+      <description>2017/08/24 制作サーバーの運営を開始
+2017/10/14 Discordサーバーを設立
+2018/01/14 制作サーバーの運営を休止
+2018/02/17 Japan Minecraft Serversに登録
+2018/02/24 生活サーバーの運営を開始
+2018/04/29 生活サーバーの運営を休止
+2018/09/02 生活サーバーの運営を再開
+2018/09/24 生活サーバーの運営を休止
+2021/06/13 生活サーバーの運営を再開</description>
+    </item>
+    
+  </channel>
+</rss>
